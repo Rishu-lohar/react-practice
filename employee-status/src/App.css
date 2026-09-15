@@ -1,0 +1,23 @@
+body{
+    background-color: #f4f4f4;
+}
+
+
+.main-container{
+    margin-top: 40px;
+}
+
+
+.heading{
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+
+.filter-box{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
